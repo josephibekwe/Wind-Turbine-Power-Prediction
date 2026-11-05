@@ -1,0 +1,20 @@
+#Purpose of AI Assistance
+ChatGPT was used as a suport learning toll during the dissrtation proposal stage
+
+AI assistance included python code,  code debugging support, and for statistical interpretation.
+
+
+**2 AI Usage Record**
+-Research topic selection: AI was used to discuss the feasibility of variour research topics and assess the potential availablity of releated research articles
+-Exploratory Data Anayysis: AI was used to asess the suitable vsiuals that are most relevant to the EDA.
+-Code debugging: Ai was used to debug python codes
+-polynomial regression analysis: AI was used to plot and interprets polynomial regression 
+
+Example of AI Prompts:
+-"Is the red line the predicted power in the Ploynomial regression plot?" 05/11/2026
+-"How do I underline text in Git?"05/11/2026
+-"do I include machin learning and deep learning is the dissertation proposal stage?"05/11/2026
+
+verification and reposibility
+AI-generated suggestions and explanations were reviewed alongside the dataset and results obtained from the executed Python code.
+The student remains responsible for verifying results, selecting appropriate research methods, interpreting findings and preparing the final submission.
